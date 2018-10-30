@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Validare restaurant
 
-You can use the [editor on GitHub](https://github.com/book-a-table/validare-restaurant/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Restaurant : Agora
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Manager : Viorel Georgian Rotaru
 
-### Markdown
+Locatie restaurant : str. Tintasului, nr 27,sector 1, Bucuresti
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Rezultat discutie manager:
+- problema sesizata: cum se asigura ca rezervarile si comenzile facute inainte de ajungerea clientului la restaurant nu reprezinta o pierdere? Rezolvarea data de el este ca clientul sa se plateasca un procent din comanda atunci cand o trimite;
+- ceea ce l-a incantat: usurarea ospatarilor si a bucatarilor in perioadele aglomerate(perioada pranzului, zile de sarbatoare);
 
-```markdown
-Syntax highlighted code block
+Rezultat discutie ospatari:
+- ceea ce i-a incantat: le este usurata munca, interactiunea minima cu clientul de obicei duce la un rezultat bun(riscul mic de neintelegere);
+- problema sesizata: plata cu cardul ridica riscul de a nu primi bacsis, dar o rezolvare ar fi  includerea tipsului in nota de plata;
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/book-a-table/validare-restaurant/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Colaborare:
+- Managerul accepta sa avem o colaborare in felul urmator: sa existe o perioada (3 luni) de proba, iar daca la finalul perioadei considera ca rezultatul este unul benefic pentru restaurant, am putea semna un contract in care ne va plati un procent(15-30 %) din sumele notelor de plata incasate din rezervarile facute prin intermediul aplicatiei noastre(putem negocia termenul, procentul etc);
