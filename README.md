@@ -16,3 +16,5 @@ Rezultat discutie ospatari:
 
 Colaborare:
 - Managerul accepta sa avem o colaborare in felul urmator: sa existe o perioada (3 luni) de proba, iar daca la finalul perioadei considera ca rezultatul este unul benefic pentru restaurant, am putea semna un contract in care ne va plati un procent(15-30 %) din sumele notelor de plata incasate din rezervarile facute prin intermediul aplicatiei noastre(putem negocia termenul, procentul etc);
+
+#### [Pagina de prezentare](https://book-a-table.github.io/validare-restaurant/)
